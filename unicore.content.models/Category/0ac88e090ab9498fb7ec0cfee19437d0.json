@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "0ac88e090ab9498fb7ec0cfee19437d0", 
+  "language": "kur_IQ", 
+  "title": "\u0645\u06d5\u0628\u06d5\u0633\u062a\u062a \u0686\u06cc\u06cc\u06d5 \u0644\u06d5 \"\u0628\u06d5 \u0632\u06cc\u062a\u06d5\u06b5\u06cc \u067e\u06d5\u06cc\u0648\u06d5\u0646\u062f\u06cc \u0628\u06a9\u06d5\"\u061f", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "What-is-Connect-Smart", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
