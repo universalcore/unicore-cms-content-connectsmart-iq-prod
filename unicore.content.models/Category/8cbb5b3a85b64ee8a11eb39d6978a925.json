@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "8cbb5b3a85b64ee8a11eb39d6978a925", 
   "language": "kur_IQ", 
-  "title": "Get Answers \u0648\u06d5\u06b5\u0627\u0645 \u0628\u06d5\u062f\u06d5\u0633\u062a \u0628\u0647\u06ce\u0646\u06d5", 
+  "title": "\u0648\u06d5\u06b5\u0627\u0645 \u0628\u06d5\u062f\u06d5\u0633\u062a \u0628\u0647\u06ce\u0646\u06d5", 
   "image": null, 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "Get-answers", 
